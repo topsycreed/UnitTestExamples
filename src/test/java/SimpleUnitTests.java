@@ -1,8 +1,7 @@
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-class UnitTests {
-
+class SimpleUnitTests {
     @Test
     void simpleJunitTest() {
         int a = 2;
